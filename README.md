@@ -2,7 +2,7 @@
 
 Yomichan is a browser extension created for Japanese which enables its users to quickly and efficiently look up words on a webpage.
 
-![yomichan picture](https://imgur.com/a/EERtnlk)
+![yomichan picture](https://i.imgur.com/GXDzQnw.png)
 
 This dictionary is made to be used with Yomichan. The data was based on the work of Wiktionary.
 
