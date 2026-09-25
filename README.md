@@ -1,4 +1,4 @@
-# English - Indonesian Yomichan Dictionary
+# English - Indonesian Yomichan/Yomitan Dictionary
 
 Yomichan is a browser extension created for Japanese which enables its users to quickly and efficiently look up words on a webpage.
 
@@ -11,6 +11,8 @@ This dictionary is made to be used with Yomichan. The data was based on the work
 If you are already using Yomichan for Japanese/Chinese, I recommend creating a new profile or new browser to load the dictionaries.
 
 You can follow [Xelieu's Mining Setup](https://rentry.co/mining) if this is your first time using Yomichan.
+
+The dictionary is compatible with Yomitan as well. [Anime Cards](https://animecards.site/yomichansetup/) has a compact guide on how to get it set up.
 
 Once Yomichan is set up, go to Yomichan settings > configure installed and enabled dictionaries > import. Import the zip file. (both the json files in the en-id-wiktionary folder should be in a zip file)
 
